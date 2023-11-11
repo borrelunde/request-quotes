@@ -2,7 +2,7 @@
 
 A simple demonstration program that simulates requesting quotes from different suppliers asynchronously. An exercise in concurrency using CompletableFuture, in Java 17.
 
-## Example output:
+## Example Output
 
 ```
 Receiving quote from Nerva-Antonine Group.
